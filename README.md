@@ -51,5 +51,6 @@ Project,Command,Port
 Backend,npm run dev --prefix backend,http://localhost:8000
 Frontend,npm run dev --prefix frontend,http://localhost:5173
 Open http://localhost:5173 in your browser to begin using the application.
+
 👤 Author[Aman Sharma] - [https://github.com/aman7114]
 Project Status: Completed and fully operational.
